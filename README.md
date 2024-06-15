@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AshrafAlii/Questions/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/AshrafAlii/Questions/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -31,3 +32,11 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshrafAlii/Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+# Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AshrafAlii/Questions/tree/master/0011-container-with-most-water) |
+# Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AshrafAlii/Questions/tree/master/0011-container-with-most-water) |
