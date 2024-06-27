@@ -40,3 +40,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshrafAlii/Questions/tree/master/0011-container-with-most-water) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/AshrafAlii/Questions/tree/master/1916-find-center-of-star-graph) |
