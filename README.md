@@ -44,3 +44,14 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/AshrafAlii/Questions/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshrafAlii/Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshrafAlii/Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+<!---LeetCode Topics End-->
