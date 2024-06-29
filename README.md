@@ -54,4 +54,12 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshrafAlii/Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AshrafAlii/Questions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AshrafAlii/Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
