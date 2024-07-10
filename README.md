@@ -54,6 +54,7 @@
 | [0189-rotate-array](https://github.com/AshrafAlii/Questions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/AshrafAlii/Questions/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/AshrafAlii/Questions/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshrafAlii/Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/AshrafAlii/Questions/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/AshrafAlii/Questions/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
