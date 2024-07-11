@@ -91,11 +91,13 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshrafAlii/Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1250-longest-common-subsequence](https://github.com/AshrafAlii/Questions/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AshrafAlii/Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AshrafAlii/Questions/tree/master/0409-longest-palindrome) |
+| [1250-longest-common-subsequence](https://github.com/AshrafAlii/Questions/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/AshrafAlii/Questions/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
