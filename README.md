@@ -52,6 +52,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshrafAlii/Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshrafAlii/Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/AshrafAlii/Questions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AshrafAlii/Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/AshrafAlii/Questions/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/AshrafAlii/Questions/tree/master/1720-crawler-log-folder) |
@@ -78,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AshrafAlii/Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -107,4 +109,12 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AshrafAlii/Questions/tree/master/0409-longest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AshrafAlii/Questions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AshrafAlii/Questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
