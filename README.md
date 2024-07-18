@@ -61,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshrafAlii/Questions/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshrafAlii/Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AshrafAlii/Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AshrafAlii/Questions/tree/master/0189-rotate-array) |
@@ -94,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshrafAlii/Questions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/AshrafAlii/Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshrafAlii/Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshrafAlii/Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -101,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshrafAlii/Questions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/AshrafAlii/Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AshrafAlii/Questions/tree/master/0409-longest-palindrome) |
 | [1250-longest-common-subsequence](https://github.com/AshrafAlii/Questions/tree/master/1250-longest-common-subsequence) |
