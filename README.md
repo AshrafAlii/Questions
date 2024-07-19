@@ -57,6 +57,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AshrafAlii/Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/AshrafAlii/Questions/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AshrafAlii/Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/AshrafAlii/Questions/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AshrafAlii/Questions/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AshrafAlii/Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
