@@ -56,6 +56,7 @@
 | [0189-rotate-array](https://github.com/AshrafAlii/Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AshrafAlii/Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0917-boats-to-save-people](https://github.com/AshrafAlii/Questions/tree/master/0917-boats-to-save-people) |
 | [1293-three-consecutive-odds](https://github.com/AshrafAlii/Questions/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AshrafAlii/Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/AshrafAlii/Questions/tree/master/1720-crawler-log-folder) |
@@ -67,6 +68,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AshrafAlii/Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AshrafAlii/Questions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0917-boats-to-save-people](https://github.com/AshrafAlii/Questions/tree/master/0917-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0917-boats-to-save-people](https://github.com/AshrafAlii/Questions/tree/master/0917-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0055-jump-game](https://github.com/AshrafAlii/Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshrafAlii/Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/AshrafAlii/Questions/tree/master/0409-longest-palindrome) |
+| [0917-boats-to-save-people](https://github.com/AshrafAlii/Questions/tree/master/0917-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
