@@ -49,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AshrafAlii/Questions/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/AshrafAlii/Questions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshrafAlii/Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshrafAlii/Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshrafAlii/Questions/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/AshrafAlii/Questions/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AshrafAlii/Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AshrafAlii/Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AshrafAlii/Questions/tree/master/0189-rotate-array) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AshrafAlii/Questions/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AshrafAlii/Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/AshrafAlii/Questions/tree/master/0917-boats-to-save-people) |
 ## Math
